@@ -158,3 +158,4 @@ export default function EmployeeModal({ isOpen, closeModal, employee }: Employee
         </Transition>
     );
 }
+

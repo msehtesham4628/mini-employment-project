@@ -10,3 +10,4 @@ export interface Employee {
     createdAt?: string;
     updatedAt?: string;
 }
+

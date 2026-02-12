@@ -5,7 +5,7 @@
         "description": "API Collection for the Mini Employment Management Portal. \n\n**Setup**:\n1. Import this collection into Postman.\n2. Run the 'Login' request first.\n3. The authentication token will be automatically saved to your collection variables.\n4. You can now run any other protected request.",
         "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
         "_exporter_id": "50650344",
-        "_collection_link": "https://sksafiya484-5845709.postman.co/workspace/Safiya-Sk's-Workspace~101f2cc2-1b32-4de9-8c18-e519629fbea4/collection/50650344-ec94dd4f-f2d1-486d-97db-3486f52386ef?action=share&source=collection_link&creator=50650344"
+        "_collection_link": "https://skEhtesham484-5845709.postman.co/workspace/Ehtesham-Sk's-Workspace~101f2cc2-1b32-4de9-8c18-e519629fbea4/collection/50650344-ec94dd4f-f2d1-486d-97db-3486f52386ef?action=share&source=collection_link&creator=50650344"
     },
     "item": [
         {

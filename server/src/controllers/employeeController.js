@@ -75,3 +75,4 @@ const getEmployeeById = async (req, res) => {
 }
 
 module.exports = { getEmployees, createEmployee, updateEmployee, deleteEmployee, getEmployeeById };
+
